@@ -1,2 +1,4 @@
-# nwwbiegan_gemastik2020
-&lt;h1>Gemastik 2019 Data Mining Archive&lt;\h1>&lt;br>
+# Data Mining Archive Gemastik XIII 2020
+## Nwwbiegan
+
+Contain Source code for elimination round (phase 1)
